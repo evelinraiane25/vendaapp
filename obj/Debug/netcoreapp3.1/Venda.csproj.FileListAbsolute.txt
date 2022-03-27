@@ -1,0 +1,14 @@
+C:\git\Venda\bin\Debug\netcoreapp3.1\Venda.exe
+C:\git\Venda\bin\Debug\netcoreapp3.1\Venda.deps.json
+C:\git\Venda\bin\Debug\netcoreapp3.1\Venda.runtimeconfig.json
+C:\git\Venda\bin\Debug\netcoreapp3.1\Venda.runtimeconfig.dev.json
+C:\git\Venda\bin\Debug\netcoreapp3.1\Venda.dll
+C:\git\Venda\bin\Debug\netcoreapp3.1\Venda.pdb
+C:\git\Venda\obj\Debug\netcoreapp3.1\Venda.csproj.AssemblyReference.cache
+C:\git\Venda\obj\Debug\netcoreapp3.1\Venda.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Venda\obj\Debug\netcoreapp3.1\Venda.AssemblyInfoInputs.cache
+C:\git\Venda\obj\Debug\netcoreapp3.1\Venda.AssemblyInfo.cs
+C:\git\Venda\obj\Debug\netcoreapp3.1\Venda.csproj.CoreCompileInputs.cache
+C:\git\Venda\obj\Debug\netcoreapp3.1\Venda.dll
+C:\git\Venda\obj\Debug\netcoreapp3.1\Venda.pdb
+C:\git\Venda\obj\Debug\netcoreapp3.1\Venda.genruntimeconfig.cache
